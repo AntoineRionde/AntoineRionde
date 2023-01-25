@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<div align="center">
 Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-DWM.
 
 ### :point_right: Compétences
@@ -25,3 +25,4 @@ Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-
 ### Me contacter :
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/antoine-rnd88/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:s.antoine.rnd7@gmail.com)
+<div>
