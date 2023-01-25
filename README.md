@@ -1,5 +1,6 @@
-### Hi there 👋
 <div align="center">
+### Hi there 👋
+
 Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-DWM.
 
 ### :point_right: Compétences
