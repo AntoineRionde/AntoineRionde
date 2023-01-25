@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 <div align="center">
 
-<img src="https://media.tenor.com/7fSQ8RYoBC0AAAAd/this-is-elon-musk.gif" align="center" style="width : 100%;" />
+<img src="[https://media.tenor.com/7fSQ8RYoBC0AAAAd/this-is-elon-musk.gif]" align="center" />
   
   
 Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-DWM.
