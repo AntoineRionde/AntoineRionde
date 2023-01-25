@@ -11,7 +11,7 @@ Actuellement je suis étudiant en 2 ème année de BUT Informatique.
 
 ### :point_right: Compétences
 #### Langages / Frameworks
-<img src="./assets/images/java.png" alt="java" title="Java"/>&nbsp;&nbsp;
+<img src="./assets/images/java2.png" alt="java" title="Java"/>&nbsp;&nbsp;
 <img src="./assets/images/php2.png" alt="PHP" title="Php"/>&nbsp;&nbsp; 
 
 #### Outils
