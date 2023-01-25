@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-## :man: Whoami 
-[![twitter](https://img.shields.io/badge/twitter--lightgrey?style=social&logo=twitter)](https://twitter.com/wildagsx)
-[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/philippartstephane/)
-[![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:s.philippart@gmail.com)
+//## :man: Whoami 
+[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/antoine-rnd88/)
+[![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:s.antoine.rnd7@gmail.com)
 
 Actuellement je suis étudiant en 2 ème année de BUT Informatique.
-
-
 
 ### :point_right: Compétences
 #### Langages / Frameworks
 <img src="./assets/images/java2.png" alt="java" title="Java"/>&nbsp;&nbsp;
 <img src="./assets/images/php2.png" alt="PHP" title="Php"/>&nbsp;&nbsp; 
+<img src="./assets/images/laravel.png" alt="Laravel" title="Laravel"/>&nbsp;&nbsp; 
 
 #### Outils
 <img src="./assets/images/git.png" alt ="Git" title="Git"/>&nbsp;&nbsp; 
