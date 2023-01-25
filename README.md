@@ -4,7 +4,7 @@
 
 Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-DWM.
   
-<img src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e472c0cnzxkmcvh5tv04b92ldkpzxacxa6vlob461wv&rid=giphy.gif&ct=g" align="center" style="width : 100%;" />
+<div class="tenor-gif-embed" data-postid="24487310" data-share-method="host" data-aspect-ratio="1.97531" data-width="100%"><a href="https://tenor.com/view/this-is-elon-musk-gif-24487310">This Is Elon Musk GIF</a>from <a href="https://tenor.com/search/this+is+elon+musk-gifs">This Is Elon Musk GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### :point_right: Compétences
 #### Langages / Frameworks
