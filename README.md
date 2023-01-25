@@ -7,7 +7,7 @@ Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-
 ### :point_right: Compétences
 #### Langages / Frameworks
 <img src="./assets/images/java2.png" alt="java" title="Java"/>&nbsp;&nbsp;
-<img src="./assets/images/php4.png" alt="PHP" title="Php"/>&nbsp;&nbsp; 
+<img src="./assets/images/php5.png" alt="PHP" title="Php"/>&nbsp;&nbsp; 
 <img src="./assets/images/laravel.png" alt="Laravel" title="Laravel"/>&nbsp;&nbsp; 
 <img src="./assets/images/html.png" alt="HTML" title="HTML"/> &nbsp;&nbsp;
 <img src="./assets/images/css11.png" alt="CSS" title="CSS"/>&nbsp;&nbsp; 
