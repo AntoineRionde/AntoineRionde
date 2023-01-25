@@ -1,10 +1,12 @@
 <h1 align="center"> Hi there 👋 </h1>
 <div align="center">
 
-
+<img src="https://media.tenor.com/7fSQ8RYoBC0AAAAd/this-is-elon-musk.gif" align="center" style="width : 100%;" />
+  
+  
 Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-DWM.
   
-<div class="tenor-gif-embed" data-postid="24487310" data-share-method="host" data-aspect-ratio="1.97531" data-width="100%"><a href="https://tenor.com/view/this-is-elon-musk-gif-24487310">This Is Elon Musk GIF</a>from <a href="https://tenor.com/search/this+is+elon+musk-gifs">This Is Elon Musk GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 ### :point_right: Compétences
 #### Langages / Frameworks
