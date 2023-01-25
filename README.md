@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-## :man: Whoami 
-[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/antoine-rnd88/)
-[![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:s.antoine.rnd7@gmail.com)
-
 Actuellement je suis étudiant en 2 ème année de BUT Informatique.
 
 ### :point_right: Compétences
@@ -24,3 +20,6 @@ Actuellement je suis étudiant en 2 ème année de BUT Informatique.
 | Quelques statistiques | | |
 | :---: |:---:| :---:|
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineRionde&theme=radical&hide_langs_below=8&count_private=true)     |  | ![](https://github-readme-stats.vercel.app/api?username=AntoineRionde&show_icons=true&theme=radical&count_private=true) |
+
+[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/antoine-rnd88/)
+[![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:s.antoine.rnd7@gmail.com)
