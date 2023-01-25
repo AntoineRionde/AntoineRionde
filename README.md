@@ -1,5 +1,6 @@
+<h1 align="center"> Hi there 👋 </h1>
 <div align="center">
-### Hi there 👋
+
 
 Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-DWM.
 
