@@ -12,7 +12,7 @@ Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-
 <img src="./assets/images/js.png" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp; 
 
 #### Outils
-<img src="./assets/images/intellij2.png" alt ="intellij" title="Intellij"/>&nbsp;&nbsp; 
+<img src="./assets/images/intellij2.png" alt ="intellij" title="Intellij"/>&nbsp;
 <img src="./assets/images/vs-code.png" alt ="vs-code" title="Visual studio code"/>&nbsp;&nbsp; 
 
 
