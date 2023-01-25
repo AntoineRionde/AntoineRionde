@@ -5,7 +5,7 @@
 Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-DWM.
 
 ### :point_right: Compétences
-### Langages / Frameworks
+#### Langages / Frameworks
 <img src="./assets/images/java2.png" alt="java" title="Java"/>&nbsp;&nbsp;
 <img src="./assets/images/php2.png" alt="PHP" title="Php"/>&nbsp;&nbsp; 
 <img src="./assets/images/laravel.png" alt="Laravel" title="Laravel"/>&nbsp;&nbsp; 
@@ -14,7 +14,7 @@ Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-
 <img src="./assets/images/js.png" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp; 
 <img src="./assets/images/mysql3.png" alt="MySQL" title="MySQL"/>&nbsp;&nbsp; 
 
-### Outils
+#### Outils
 <img src="./assets/images/intellij2.png" alt ="intellij" title="Intellij"/>&nbsp;
 <img src="./assets/images/vs-code.png" alt ="vs-code" title="Visual studio code"/>&nbsp;&nbsp; 
 <img src="./assets/images/npm.png" alt ="NPM" title="NPM"/>&nbsp;&nbsp; 
@@ -24,7 +24,7 @@ Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-
 | :---: |:---:| :---:|
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineRionde&theme=radical&hide_langs_below=8&count_private=true)     |  | ![](https://github-readme-stats.vercel.app/api?username=AntoineRionde&show_icons=true&theme=radical&count_private=true) |
 
-### Me contacter :
+#### Me contacter :
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/antoine-rnd88/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:s.antoine.rnd7@gmail.com)
 <div>
