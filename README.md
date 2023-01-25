@@ -7,7 +7,7 @@ Actuellement je suis étudiant en 2 ème année de BUT Informatique.
 <img src="./assets/images/java2.png" alt="java" title="Java"/>&nbsp;&nbsp;
 <img src="./assets/images/php2.png" alt="PHP" title="Php"/>&nbsp;&nbsp; 
 <img src="./assets/images/laravel.png" alt="Laravel" title="Laravel"/>&nbsp;&nbsp; 
-<img src="./assets/images/html5-2.png" alt="HTML5" title="HTML5"/>&nbsp;&nbsp; 
+<img src="./assets/images/js.png" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp; 
 
 #### Outils
 <img src="./assets/images/git.png" alt ="Git" title="Git"/>&nbsp;&nbsp; 
