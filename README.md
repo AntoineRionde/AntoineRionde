@@ -12,9 +12,8 @@ Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-
 <img src="./assets/images/js.png" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp; 
 
 #### Outils
-<img src="./assets/images/git.png" alt ="Git" title="Git"/>&nbsp;&nbsp; 
 <img src="./assets/images/intellij2.png" alt ="intellij" title="Intellij"/>&nbsp;&nbsp; 
-<img height="32" width="32" src="./assets/images/npm.svg" alt ="Npm" title="Npm"/>&nbsp;&nbsp; 
+<img src="./assets/images/vs-code.png" alt ="vs-code" title="Visual studio code"/>&nbsp;&nbsp; 
 
 
 | Quelques statistiques | | |
