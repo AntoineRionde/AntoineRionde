@@ -3,8 +3,8 @@
 
 
 Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-DWM.
-
-<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6"></a></p>
+  
+<img src="![image](https://user-images.githubusercontent.com/92793361/214597631-8ecb09f5-2cfc-48e2-b492-1e0641181cd7.png)" align="center" style="width : 100%;" />
 
 ### :point_right: Compétences
 #### Langages / Frameworks
