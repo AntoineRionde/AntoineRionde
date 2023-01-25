@@ -13,12 +13,9 @@ Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-
 
 #### Outils
 <img src="./assets/images/git.png" alt ="Git" title="Git"/>&nbsp;&nbsp; 
-<img src="./assets/images/maven.png" alt ="Maven" title="Maven"/>&nbsp;&nbsp; 
+<img src="./assets/images/intellij.png" alt ="intellij" title="Intellij"/>&nbsp;&nbsp; 
 <img height="32" width="32" src="./assets/images/npm.svg" alt ="Npm" title="Npm"/>&nbsp;&nbsp; 
 
-
-#### Méthodes / Frameworks
-<img height="32" width="32" src="./assets/images/devops.png" alt ="DevOps" title="DevOps"/>&nbsp;&nbsp; <img height="32" width="" src="./assets/images/scrum.png" alt ="Scrum" title="Scrum"/> 
 
 | Quelques statistiques | | |
 | :---: |:---:| :---:|
