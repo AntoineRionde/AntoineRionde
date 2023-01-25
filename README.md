@@ -12,7 +12,7 @@ Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-
 <img src="./assets/images/html.png" alt="HTML" title="HTML"/>&nbsp;&nbsp; 
 <img src="./assets/images/css3.png" alt="CSS" title="CSS"/>&nbsp;&nbsp; 
 <img src="./assets/images/js.png" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp; 
-<img src="./assets/images/mysql4.png" alt="MySQL" title="MySQL"/>&nbsp;&nbsp; 
+<img src="./assets/images/mysql5.png" alt="MySQL" title="MySQL"/>&nbsp;&nbsp; 
 
 #### Outils
 <img src="./assets/images/intellij2.png" alt ="intellij" title="Intellij"/>&nbsp;
