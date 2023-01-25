@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Actuellement je suis étudiant en 2 ème année de BUT Informatique.
+Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-DWM.
 
 ### :point_right: Compétences
 #### Langages / Frameworks
