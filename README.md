@@ -9,7 +9,7 @@ Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-
 <img src="./assets/images/java2.png" alt="java" title="Java"/>&nbsp;&nbsp;
 <img src="./assets/images/php2.png" alt="PHP" title="Php"/>&nbsp;&nbsp; 
 <img src="./assets/images/laravel.png" alt="Laravel" title="Laravel"/>&nbsp;&nbsp; 
-<img src="./assets/images/html.png" alt="HTML" title="HTML"/>&nbsp;&nbsp; 
+<img src="./assets/images/html.png" alt="HTML" title="HTML"/> 
 <img src="./assets/images/css12.png" alt="CSS" title="CSS"/>&nbsp;&nbsp; 
 <img src="./assets/images/js.png" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp; 
 <img src="./assets/images/c-sharp2.png" alt="C#" title="C#"/>&nbsp;&nbsp; 
