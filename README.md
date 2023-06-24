@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.tenor.com/eKSgDPloD8UAAAAd/mike-o-hearn.gif" align="center" style="width : 100%;" />
-  ![](mikeohearn.gif)
+  ![](assets/images/mikeohearn.gif)
 </div> 
 
 <h1 align="center"> Hi there 👋 </h1>
