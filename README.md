@@ -1,8 +1,7 @@
 <div align="center">
 <!--   <img src="https://media.tenor.com/eKSgDPloD8UAAAAd/mike-o-hearn.gif" align="center" style="width : 100%;" /> -->
+  ![Mike O Hearn](https://github.com/AntoineRionde/AntoineRionde/blob/main/assets/images/mikeohearn.gif)
 </div> 
-
-![Mike O Hearn](https://github.com/AntoineRionde/AntoineRionde/blob/main/assets/images/mikeohearn.gif)
 
 <h1 align="center"> Hi there 👋 </h1>
 <div align="center">
