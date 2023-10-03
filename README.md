@@ -1,9 +1,10 @@
 <div align="center">
 <!--   <img src="https://media.tenor.com/eKSgDPloD8UAAAAd/mike-o-hearn.gif" align="center" style="width : 100%;" /> -->
 <!--   ![Mike O Hearn](https://github.com/AntoineRionde/AntoineRionde/blob/main/assets/images/mikeohearn.gif) -->
-  <p align="center">
+  
+<!--   <p align="center">
     <img src="https://github.com/AntoineRionde/AntoineRionde/blob/main/assets/images/mikeohearn.gif" alt="animated" />
-  </p>
+  </p> -->
 </div> 
 
 <h1 align="center"> Hi there 👋 </h1>
