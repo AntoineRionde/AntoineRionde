@@ -10,7 +10,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 <div align="center">
   
-Actuellement je suis étudiant en 2ème année de BUT Informatique en option RA-DWM.
+Actuellement je suis étudiant en 3ème année de BUT Informatique en option RA-DWM.
 
 ### :point_right: Compétences
 #### Langages / Frameworks
